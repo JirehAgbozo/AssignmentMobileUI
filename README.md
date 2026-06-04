@@ -1,4 +1,40 @@
-# Welcome to your Expo app 👋
+# Welcome to My Expo app 👋
+
+This is my KLM Mobile UI Clone
+
+Overview
+
+This project is a mobile UI clone of the KLM application landing page created using Expo, Typescript and React Native.
+
+-> Technologies Used
+
+Expo
+React Native
+TypeScript
+
+->Features
+
+Landing page inspired by the KLM mobile application
+Flight destination card
+Bottom navigation bar
+Working Alert button
+
+-> Alert Button
+
+When the Alert button is pressed, an alert message appears:
+
+"Alert Button pressed"
+
+Images
+
+The images used are comparable royalty-free images and are not official KLM assets.
+https://unsplash.com/s/photos/airplane-cabin
+Alexander Schimmeck
+https://unsplash.com/s/photos/prague
+Dmitry Goykolov
+
+-> Author
+Jireh Agbozo
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
